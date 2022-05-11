@@ -1,5 +1,4 @@
-# Hi there , i'm Michele
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+I'm+michele;A+UI+designer+and+a+front-end+dev)](https://git.io/typing-svg)
 
-i'm a ux designer and a front-end developer from Italy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NoNameNoShame)](https://github.com/ryo-ma/github-profile-trophy)
