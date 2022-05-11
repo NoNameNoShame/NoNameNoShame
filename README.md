@@ -2,4 +2,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NoNameNoShame)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Technology stack
+<h2 align ="center"> Techonolgy stacks </h2>
